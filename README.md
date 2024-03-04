@@ -20,16 +20,13 @@ Given a Hindi movie video, our model dubs the movie into English with the same e
 - **Code:** Contains the implementation of the proposed audio dubbing model, including denoising algorithms, speech-extraction models, and text-to-speech synthesis.
 - **Data:** Includes the benchmark dataset of movies for Hindi-to-English dubbing, facilitating reproducibility and further research.
 - **Documentation:** Provides detailed instructions for running the code, training the model, and evaluating performance.
-- **Results:** Presents the empirical results obtained from testing the model on the benchmark dataset, along with comparisons to the state-of-the-art.
+  
+![Block_Diagram](/images/block_diagram.png)
+
+Block diagram of the proposed model. (a) The video file with the subtitles is the input. (b) The Audio and subtitled text are processed and translated simultaneously. The vocals and the background information of the audio are separated. (c) Background information and the vocals are integrated after dubbing the speech. (d) The final output movie dubbed into English.
 
 ### How to Use
-
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies as listed in the documentation.
-3. Preprocess the dataset and train the audio dubbing model according to the provided instructions.
-4. Evaluate the model's performance using the benchmark dataset and compare it with existing methods.
-5. Explore opportunities for further improvements and contributions.
-
+Refer to the 'Implementation.txt' for the instructions
 ### Contributors
 
 - [Gouthami Reddy Godhala, Samriddha Sanyal, and Vijayasree Asam]
