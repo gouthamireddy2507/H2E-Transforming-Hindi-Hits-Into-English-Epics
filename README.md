@@ -32,5 +32,5 @@ Given a Hindi movie video, our model dubs the movie into English with the same e
 
 ### Contributors
 
-- [Gouthami Reddy Godhala, Samriddha Sanyal, Vijayasree Asam]
+- [Gouthami Reddy Godhala, Samriddha Sanyal, and Vijayasree Asam]
 
