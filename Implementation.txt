@@ -1,0 +1,31 @@
+﻿Implementation Procedure:
+Step 1: Clone the Repository
+bash
+git clone <repository_url>
+
+
+Step 2: Navigate to the Project Directory
+bash
+cd <repository_directory>
+
+
+Step 3: Upload Video
+* Upload the input video file to be dubbed to the designated folder.
+Step 4: Edit MovieDubbing1.py
+* Open 'MovieDubbing1.py' file and update the path of the input video file.
+Step 5: Run MovieDubbing1.py
+* Execute ‘MovieDubbing1.py' to perform initial processing.
+bash
+python MovieDubbing1.py
+
+
+Step 6: Upload Subtitle Files
+* Upload the subtitle files to the designated folder.
+Step 7: Edit MovieDubbing2.py
+Open the 'MovieDubbing2.py' file and update the paths for both the input video and subtitle files.
+Step 8: Run MovieDubbing2.py
+* Execute 'MovieDubbing.py' to perform dubbing with subtitles.
+bash
+python MovieDubbing2.py
+Step 9: Check Output
+* Check the output folder for the final dubbed video.
