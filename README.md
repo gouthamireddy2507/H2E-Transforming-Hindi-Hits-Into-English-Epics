@@ -27,7 +27,11 @@ Block diagram of the proposed model. (a) The video file with the subtitles is th
 
 ### How to Use
 Refer to the 'Implementation.txt' for the instructions
+
+**The complete dataset will be made public once the paper is accepted.**
+
 ### Contributors
 
-- [Gouthami Reddy Godhala, Samriddha Sanyal, and Vijayasree Asam]
+- Contributors' names will updated once the paper is accepted.
+
 
